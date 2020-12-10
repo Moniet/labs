@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/mobile-nav-framer-motion/static/css/main.16d1d514.chunk.css",
+    "main.js": "/mobile-nav-framer-motion/static/js/main.2563860a.chunk.js",
+    "main.js.map": "/mobile-nav-framer-motion/static/js/main.2563860a.chunk.js.map",
+    "runtime-main.js": "/mobile-nav-framer-motion/static/js/runtime-main.d72ee8af.js",
+    "runtime-main.js.map": "/mobile-nav-framer-motion/static/js/runtime-main.d72ee8af.js.map",
+    "static/js/2.99564b42.chunk.js": "/mobile-nav-framer-motion/static/js/2.99564b42.chunk.js",
+    "static/js/2.99564b42.chunk.js.map": "/mobile-nav-framer-motion/static/js/2.99564b42.chunk.js.map",
+    "static/js/3.2d0708cc.chunk.js": "/mobile-nav-framer-motion/static/js/3.2d0708cc.chunk.js",
+    "static/js/3.2d0708cc.chunk.js.map": "/mobile-nav-framer-motion/static/js/3.2d0708cc.chunk.js.map",
+    "index.html": "/mobile-nav-framer-motion/index.html",
+    "static/css/main.16d1d514.chunk.css.map": "/mobile-nav-framer-motion/static/css/main.16d1d514.chunk.css.map",
+    "static/js/2.99564b42.chunk.js.LICENSE.txt": "/mobile-nav-framer-motion/static/js/2.99564b42.chunk.js.LICENSE.txt",
+    "static/media/home.71e2e975.svg": "/mobile-nav-framer-motion/static/media/home.71e2e975.svg",
+    "static/media/logo.6ce24c58.svg": "/mobile-nav-framer-motion/static/media/logo.6ce24c58.svg",
+    "static/media/message-circle.477e8988.svg": "/mobile-nav-framer-motion/static/media/message-circle.477e8988.svg",
+    "static/media/phone.dd58e00f.svg": "/mobile-nav-framer-motion/static/media/phone.dd58e00f.svg",
+    "static/media/settings.b0391abc.svg": "/mobile-nav-framer-motion/static/media/settings.b0391abc.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d72ee8af.js",
+    "static/js/2.99564b42.chunk.js",
+    "static/css/main.16d1d514.chunk.css",
+    "static/js/main.2563860a.chunk.js"
+  ]
+}
